@@ -1,0 +1,26 @@
+---
+title: "Project Portfolio"
+author: "Caitlyn Vasquez"
+output: html_document
+---
+
+## Recommending Amazon Electronic Products
+Recommender system using matrix factorization with deep learning (group)
+View the project [here](https://caitlyn.github.io/pstat197aproject.html).
+
+## Restaurant Recommender Given an Item and Given a User
+Recommender system using item-based collaboritve filtering (group)
+View the project [here](https://caitlyn.github.io/pstat134project.html).
+
+
+## Exploring the Impact of Lifestyle and Demographics on Sleep Health
+Logistic regression and ANOVA in R (group)
+View the project [here](https://caitlyn.github.io/pstat100project.html).
+
+## Predicting Average Movie Rating 
+Statistical machine learning project in R (individual)
+View the project [here](https://caitlyn.github.io/pstat131project.html).
+
+## Time Series Analysis on US Monthly Unemployment Rate
+Time series project in R (individual)
+View the project [here](https://caitlyn.github.io/pstat174project.html).
